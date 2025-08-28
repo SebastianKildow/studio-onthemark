@@ -1,8 +1,9 @@
 {
-  "build": {
-    "env": {
-      "SANITY_STUDIO_PROJECT_ID": "mpneqi6d",
-      "SANITY_STUDIO_DATASET": "production"
-    }
+  "framework": null,
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "env": {
+    "SANITY_STUDIO_PROJECT_ID": "mpneqi6d",
+    "SANITY_STUDIO_DATASET": "production"
   }
 }
