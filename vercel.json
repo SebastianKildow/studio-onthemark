@@ -1,0 +1,8 @@
+{
+  "build": {
+    "env": {
+      "SANITY_STUDIO_PROJECT_ID": "mpneqi6d",
+      "SANITY_STUDIO_DATASET": "production"
+    }
+  }
+}
